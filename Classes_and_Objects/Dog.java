@@ -40,7 +40,7 @@ class CompanionDog extends Dog
     }
     public static void main(String[] args)
     {
-        Dog b = new Dog();
+     
        
     }
 }
